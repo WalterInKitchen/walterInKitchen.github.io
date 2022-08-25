@@ -1,0 +1,1 @@
+import{P as a}from"./Layout.e7baced6.js";import{H as t}from"./Header.f58bc61c.js";import{_ as e,o,i as r,w as s,b as _}from"./app.83173f58.js";const c={__name:"Layout",setup(n){return(p,u)=>(o(),r(a,{class:"content_container"},{navbar:s(()=>[_(t)]),_:1}))}};var l=e(c,[["__file","Layout.vue"]]);export{l as default};
